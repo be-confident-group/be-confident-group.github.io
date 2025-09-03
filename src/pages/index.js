@@ -26,6 +26,10 @@ const IndexPage = () => {
           <div className="text-sm">
             For more information about the group contact <a href="mailto:david@beconfidentgroup.com" className="text-ccoms underline">david@beconfidentgroup.com</a>.
           </div>
+
+          <div className="text-sm">
+            The BCG carbon reduction plan can be found <a target="_blank" href="carbon_reduction_plan.pdf" className="text-ccoms underline">here</a>.
+          </div>
         </div>
 
         <div className="grid md:grid-cols-2 gap-3">
